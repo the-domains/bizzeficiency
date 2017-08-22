@@ -1,0 +1,22 @@
+name: bizzeficiency
+analytics: {}
+content_rating:
+  adult: false
+github: true
+opengraph: {}
+title: Bizz Eficiency
+author:
+  name: cesar nader
+  url: www.bizzmind.com
+  email: cnader@bizzmind.com
+color:
+  lightness: 0.5754225136654969
+  brandColors:
+    - '#F9E4AD'
+    - '#E6B098'
+    - '#CC4452'
+    - '#723147'
+    - '#31152B'
+  saturation: 0.007204491646775159
+  brandStrength: 0.9435212055555361
+  rhythmicContrast: 0.1720172255700494
